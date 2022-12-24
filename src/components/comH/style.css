@@ -1,0 +1,23 @@
+.wrapGrey{
+    display: flex;
+    background: rgb(51, 51, 51);
+    color: darkgray;
+    justify-content: space-around;
+    align-items: center;
+    height: 120px;
+    width: 100%;
+}
+
+.wrapGreyLeft{
+    margin-right:50%;
+}
+
+.wrapGreyRight{
+    display: flex;
+    width: 300px;
+}
+
+.FRT{
+    text-align: left;
+}
+

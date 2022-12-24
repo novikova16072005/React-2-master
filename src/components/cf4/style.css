@@ -1,0 +1,91 @@
+.wrapFR4{
+    width: 18%;
+    height: 500px;
+    margin-top: 2%;
+    text-align: left;
+    background:rgb(18, 18, 18);
+    margin-right: 6%;
+}
+
+.h3FR4{
+    color: darkgrey;
+    margin-bottom: 0px;
+    
+}
+
+.hrH3FR4{
+    background-color: darkgrey;
+    border: none;
+    height: 1px;
+    margin-bottom: 50px;
+    
+}
+
+.AnotherName{
+    color: darkgrey ;
+    font-size: medium;
+}
+
+.Email{
+    color: darkgrey ;
+    font-size: medium;
+}
+
+.input1{
+    width: 95%;
+    background: rgb(68, 68, 68);
+    border-radius: 5px;
+    border-color:rgb(53, 53, 53); 
+}
+
+.input2{
+    width: 95%;
+    background: rgb(68, 68, 68);
+    border-radius: 5px;
+    border-color:rgb(53, 53, 53);
+}
+
+.input3{
+    width: 95%;
+    height: 100px;
+    background: rgb(68, 68, 68);
+    border-radius: 5px;
+    margin-top: 5%;
+    border-color:rgb(53, 53, 53);
+
+}
+
+.bSubmit{
+    background-color: orange;
+    color:  white;
+    border-radius: 5px;
+    font-size: medium;
+    padding: 4px;
+    margin-top: 20px;
+    font-weight: 400;
+    
+}
+
+.bReset{
+    background-color: gray;
+    color: whitesmoke;
+    border-radius: 5px;
+    font-size: medium;
+    padding: 4px;
+    margin-top: 20px;
+    margin-left: 6%;
+    font-weight: 400;
+}
+
+.bReset:hover {
+    color:gray;
+    background-color:whitesmoke;
+
+}
+
+.bSubmit:hover {
+    color:chocolate;
+    background: rgb(113, 64, 14);
+
+}
+

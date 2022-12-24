@@ -1,0 +1,41 @@
+.menu-item {
+  color: whitesmoke;
+  cursor: pointer;
+  transition: 0.25s;
+  position: relative;
+  width: 180px;
+  
+  font-size:smaller;
+}
+.menu-item:hover {
+  color: orange;
+}
+
+.menu-sub {
+  position: absolute;
+  top: 100%;
+  background-color: rgb(155, 15, 15);
+  color: white;
+  width: 180px;
+  display: none;
+  z-index: 10;
+  padding: 10px;
+  padding-bottom: 20px;
+  text-align: left;
+  cursor: pointer;
+
+
+}
+
+.menu-sub:hover {
+  background-color:orange;
+}
+.menu-sub > div {
+  width: 100%;
+  margin: 5px;
+  box-sizing: border-box;
+}
+
+.show {
+  display: block;
+}

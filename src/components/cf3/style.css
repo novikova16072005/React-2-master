@@ -1,0 +1,43 @@
+.wrapFR3{
+    width: 18%;
+    height: 500px;
+    margin-top: 2%;
+    text-align: left;
+    background:rgb(18, 18, 18);
+}
+
+.h3FR3{
+    color: darkgrey;
+    margin-bottom: 0px;
+    
+}
+
+.hrH3FR3{
+    background-color: darkgrey;
+    border: none;
+    height: 1px;
+    margin-bottom: 50px;
+    
+}
+
+.textPFR3{
+    color:darkgrey ;
+    font-size: medium;
+}
+
+.name{
+    color: orange;
+    text-decoration: none;
+}
+
+.time{
+    color: orange;
+    text-decoration: none;
+    font-size: small;
+}
+
+.AnotherOneHr{
+    border: none;
+    background-color:rgb(60, 60, 60);
+    height: 1px;
+}
